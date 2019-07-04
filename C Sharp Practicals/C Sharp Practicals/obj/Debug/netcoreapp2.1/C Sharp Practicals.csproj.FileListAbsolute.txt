@@ -1,0 +1,11 @@
+D:\C# in GitHub\C-Practicals\C Sharp Practicals\C Sharp Practicals\bin\Debug\netcoreapp2.1\C Sharp Practicals.deps.json
+D:\C# in GitHub\C-Practicals\C Sharp Practicals\C Sharp Practicals\bin\Debug\netcoreapp2.1\C Sharp Practicals.runtimeconfig.json
+D:\C# in GitHub\C-Practicals\C Sharp Practicals\C Sharp Practicals\bin\Debug\netcoreapp2.1\C Sharp Practicals.runtimeconfig.dev.json
+D:\C# in GitHub\C-Practicals\C Sharp Practicals\C Sharp Practicals\bin\Debug\netcoreapp2.1\C Sharp Practicals.dll
+D:\C# in GitHub\C-Practicals\C Sharp Practicals\C Sharp Practicals\bin\Debug\netcoreapp2.1\C Sharp Practicals.pdb
+D:\C# in GitHub\C-Practicals\C Sharp Practicals\C Sharp Practicals\obj\Debug\netcoreapp2.1\C Sharp Practicals.csprojAssemblyReference.cache
+D:\C# in GitHub\C-Practicals\C Sharp Practicals\C Sharp Practicals\obj\Debug\netcoreapp2.1\C Sharp Practicals.csproj.CoreCompileInputs.cache
+D:\C# in GitHub\C-Practicals\C Sharp Practicals\C Sharp Practicals\obj\Debug\netcoreapp2.1\C Sharp Practicals.AssemblyInfoInputs.cache
+D:\C# in GitHub\C-Practicals\C Sharp Practicals\C Sharp Practicals\obj\Debug\netcoreapp2.1\C Sharp Practicals.AssemblyInfo.cs
+D:\C# in GitHub\C-Practicals\C Sharp Practicals\C Sharp Practicals\obj\Debug\netcoreapp2.1\C Sharp Practicals.dll
+D:\C# in GitHub\C-Practicals\C Sharp Practicals\C Sharp Practicals\obj\Debug\netcoreapp2.1\C Sharp Practicals.pdb
