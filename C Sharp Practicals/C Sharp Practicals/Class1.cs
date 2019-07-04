@@ -6,9 +6,24 @@ namespace C_Sharp_Practicals
 {
     class Class1
     {
-        public int GetSum(int a, int b)
+        private int num1, num2, sum,mul;
+
+        public void setval(int a, int b)
         {
-            return a + b;
+            num1 = a;
+            num2 = b;
         }
+        public int  getsum()
+        {
+            sum = num1 + num2;
+            return sum;
+
+        }
+        public int getmul()
+        {
+            mul = num1 * num2;
+            return mul;
+        }
+
     }
 }
